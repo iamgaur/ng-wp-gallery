@@ -1,6 +1,5 @@
 === NG WP Gallery ===
 Contributors: naveendeveloper
-Donate link: https://www.paypal.me/naveendeveloper
 Tags: Image Gallery, Grid Gallery Layout, Photo Gallery, Responsive Gallery, Masonry Gallery, Masonry Gallery Scroll Load,
 Requires at least: 4.1
 Tested up to: 5.3
